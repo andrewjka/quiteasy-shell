@@ -1,0 +1,9 @@
+hyprland-0.49.0-1.fc41
+gnome-calculator-47.2-1.fc41
+ghostty-1.1.2-1.fc41
+nautilus-47.4-1.fc41
+nwg-drawer-0.4.9-2.fc41
+gnome-clocks-47.0-1.fc41
+fish-3.7.1-1.fc41
+gnome-software-47.5-1.fc41
+gnome-calendar-47~rc-1.fc41

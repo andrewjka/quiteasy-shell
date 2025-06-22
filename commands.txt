@@ -1,0 +1,2 @@
+# to save current version of the package 
+rpm -q --qf '%{name}-%{version}-%{release}\n' hyprland >> packages.txt
