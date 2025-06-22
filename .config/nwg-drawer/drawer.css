@@ -1,0 +1,42 @@
+* {
+    font-family: 'Roboto';
+    transition: all 0.512s cubic-bezier(0.34, 1.56, 0.64, 1);
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    box-shadow: none;
+}
+
+window {
+    background-color: rgba (255, 255, 255, 0.43);
+}
+
+/* search entry */
+entry {
+    margin-top: 32px;
+    margin-bottom: 16px;
+    background-color: rgba (0, 0, 0, 0.2)
+}
+
+button, image {
+    background: none;
+    border: none
+}
+
+button:hover {
+    background-color: rgba (0, 0, 0, 0.16)
+}
+
+#category-button {
+    margin: 0 8px 16px 8px;
+    padding: 0px 4px 0px 4px;
+}
+
+#category-button:focus {
+    padding: 0px 4px 0px 4px;
+    background-color: rgba (0, 0, 0, 0.16);
+}
+
+#pinned-box {
+    padding-bottom: 16px;
+}
